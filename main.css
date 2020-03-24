@@ -1,0 +1,45 @@
+.iconvert{
+  top: -5px;
+  position: relative;
+}
+
+#main a{
+  background-color:#d60dc2;
+  color: white;
+}
+
+#main {
+  background-color:#d60dc2;
+  color: white;
+}
+.print{
+  background-color:#d60dc2;
+  color: white;
+}
+.formWrapper{
+  height: 200px;
+  background-color:#d60dc2;
+  text-align: center;
+
+}
+.iconvert{
+  margin-top:10px;
+}
+.input-wrapper{
+  background-color:black;
+  height: 100px;
+  padding: 1rem;
+  margin-left: 10%;
+  margin-right: 20%;
+}
+.input-input{
+  background-color:transparent;
+  border-top-color:transparent;
+  border-left-color:transparent;
+  border-right-color:transparent;
+  border-bottom-style: 1px solid white;
+  width: 100%;
+  margin-top: 20px;
+
+
+}
